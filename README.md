@@ -1,3 +1,5 @@
+Live Link - https://wizardsclone.netlify.app/
+
 #Components
  -HEAD
  -Body
